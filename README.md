@@ -8,5 +8,10 @@ Satellite Derived Bathymetry Post_Processing:
                     Reflectance threshold-(low/hih Threshold)
                     Masking
                     
-                    
-
+                    DAY 3
+Satellite Derived Bathymetry QA/QC (statistical tools(point data, raster data, output, check-point data positive down & raster positive down)
+                                        Evaluating QA/QC outputs
+                                        Sattelite Derived Bathymetry outlier mitigation: Tools for outlier itigation- ESRI's ArcGISpro pixel editor(2D top-down editing)
+                                                                                                                      Pure File Magic(PFM)-(D point cloud)
+                                                                                                                      Other Hydrographic software(Caris, Fledermaus, QRS)
+                                        Glint correction 
