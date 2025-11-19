@@ -15,3 +15,4 @@ Satellite Derived Bathymetry QA/QC (statistical tools(point data, raster data, o
                                                                                                                       Pure File Magic(PFM)-(D point cloud)
                                                                                                                       Other Hydrographic software(Caris, Fledermaus, QRS)
                                         Glint correction- Individual band,: Task: Running QA/QC tools on the RF data, and the visualizations
+jvngjrkkmbkbm
