@@ -14,4 +14,4 @@ Satellite Derived Bathymetry QA/QC (statistical tools(point data, raster data, o
                                         Sattelite Derived Bathymetry outlier mitigation and improving results: Tools for outlier itigation- ESRI's ArcGISpro pixel editor(2D top-down editing)
                                                                                                                       Pure File Magic(PFM)-(D point cloud)
                                                                                                                       Other Hydrographic software(Caris, Fledermaus, QRS)
-                                        Glint correction- Individual band, 
+                                        Glint correction- Individual band,: Task: Running QA/QC tools on the RF data, and the visualizations
