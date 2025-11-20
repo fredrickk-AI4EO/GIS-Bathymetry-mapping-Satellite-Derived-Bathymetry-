@@ -16,3 +16,22 @@ Satellite Derived Bathymetry QA/QC (statistical tools(point data, raster data, o
                                                                                                                       Other Hydrographic software(Caris, Fledermaus, QRS)
                                         Glint correction- Individual band,: Task: Running QA/QC tools on the RF data, and the visualizations
 jvngjrkkmbkbm
+
+
+
+                    Day 4
+
+Pre-processing(imagery selected, in-situ data selected, dividing data into calibration and validataion, applying SDB Algorithm)
+
+SDB ingredients- Imagery and In-situ data
+Environmnental factors_Negative(clouds, Specular reflection etc)
+                        Positive(calm clear water, no river discharge)
+
+
+SDB Algorithms_ Band ration method, Random Forest 
+Outlier Mitigation(boats etc-taken out)
+
+
+
+
+
