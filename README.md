@@ -53,10 +53,33 @@ Space Based hydrospatial: Radiative transfer SDB (Check the IDA software for thi
                         : Synthetic Aperture Radar(SAR)
                         : Seafloor Classification
                         : Seagrass Density & Loss
+                        : Intertidal Classification
+                        : Water quality 
+SDB Data Sources: Sentinel-2 Data
+                : ICEat-2 ATL24 access
+                : SkyFI
+                : Maxar Connect
+
+Remote Sensing journal Article: Random Forest Regression in Python(blog post)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                         
-
-
-
 
 
 
