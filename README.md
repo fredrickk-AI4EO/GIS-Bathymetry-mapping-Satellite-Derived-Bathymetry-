@@ -41,6 +41,6 @@ Improving Results:
 
 
 SDB-Mombasa(Data is Available-Project was done and data is with Alwx)
-Tcarta products{ Basemaps, Global Bathymetry, OB, SAR shoreline, SAR Oil detection Seafloor classificatin, Seafllor classification, Water quality monitoring, Satellite Reconnainssance charts
+Tcarta products{ Basemaps, Global Bathymetry, Object Detection SAR shoreline, SAR Oil detection Seafloor classificatin, Seafllor classification, Water quality monitoring, Satellite Reconnainssance charts
 
 
