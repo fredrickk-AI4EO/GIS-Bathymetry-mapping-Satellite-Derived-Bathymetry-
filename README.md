@@ -44,3 +44,21 @@ SDB-Mombasa(Data is Available-Project was done and data is with Alwx)
 Tcarta products{ Basemaps, Global Bathymetry, Object Detection SAR shoreline, SAR Oil detection Seafloor classificatin, Seafllor classification, Water quality monitoring, Satellite Reconnainssance charts
 
 
+Task: Uploa Mozambique SDB geotiff from the link(provided)
+SESNSOR FUSSION FOR SCALABLE BATHYMETRIC MAPPING(Abu Dhadi Emirate, Red Sea)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
