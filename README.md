@@ -30,8 +30,11 @@ Environmnental factors_Negative(clouds, Specular reflection etc)
 
 SDB Algorithms_ Band ration method, Random Forest 
 Outlier Mitigation(boats etc-taken out)
+Improving Results:
+                  Detracting factors: SDB model poor depth estimation, compared to in-situ or visual assesment 
 
-
-
+  Actions: Re-process - Evaluate/ mitigate in-situ outliers 
+                        Re-configure parameters; RF:adjust trees/tree depth
+                                                  Ratioo; Change representation type or improve regression fit
 
 
