@@ -48,7 +48,12 @@ Blue carbon(sea grass, coral, algae, mangroves)
 Task: Uploa Mozambique SDB geotiff from the link(provided)
 SESNSOR FUSSION FOR SCALABLE BATHYMETRIC MAPPING(Abu Dhadi Emirate, Red Sea)
 
-Spatial Based hydrospatial: Radiative transfer SDB (Check the IDA software)
+Space Based hydrospatial: Radiative transfer SDB (Check the IDA software for this purpose)
+                        : Wave Kinematic Bathymetry 
+                        : Synthetic Aperture Radar(SAR)
+                        : Seafloor Classification
+                        : Seagrass Density & Loss
+                        
 
 
 
