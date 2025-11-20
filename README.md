@@ -17,7 +17,7 @@ Satellite Derived Bathymetry QA/QC (statistical tools(point data, raster data, o
                                         Glint correction- Individual band,: Task: Running QA/QC tools on the RF data, and the visualizations
 
     Develop plan for improving SDB
-Considerations:(Image captured on Tecno date(20/11/25))
+Considerations:(Image captured on Tecno cammon 17 phn, date:(20/11/25))
 
 
 
@@ -44,13 +44,11 @@ SDB-Mombasa(Data is Available-Project was done and data is with Alwx)
 Tcarta products{ Basemaps, Global Bathymetry, Object Detection SAR shoreline, SAR Oil detection Seafloor classificatin, Seafllor classification, Water quality monitoring, Satellite Reconnainssance charts
 
 
+Blue carbon(sea grass, coral, algae, mangroves)
 Task: Uploa Mozambique SDB geotiff from the link(provided)
 SESNSOR FUSSION FOR SCALABLE BATHYMETRIC MAPPING(Abu Dhadi Emirate, Red Sea)
 
-
-
-
-
+Spatial Based hydrospatial: Radiative transfer SDB (Check the IDA software)
 
 
 
