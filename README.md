@@ -1,6 +1,5 @@
 # GIS-Bathymetry-mapping-Satellite-Derived-Bathymetry-
-Data  source, sites, satellite imagery archives,  
-Day one notes in the process of being recovered.
+Data  source, sites, satellite imagery archives,  Track Coastal and Nearshore Bathymetry: (https://nsidc.org/data/ATL24/versions/1)
 SDB_production : MBT Ratio
 Random Forest SDB (Depth prediction)-(Calibration =70%, Validation = 30%) 
 
