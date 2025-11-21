@@ -63,23 +63,13 @@ SDB Data Sources: Sentinel-2 Data
 Remote Sensing journal Article: Random Forest Regression in Python(blog post)
 Data Source: (https://nsidc.org/data/atl24/versions/1)-(https://nsidc.org/data/ATL24/versions/1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+          DAY 5
+Applications of SDB in support of Hydrographic Survey
+infill coastal gaps, risk reduction, Improve efficiency
+Marine Remote Sensing(The Red Sea)
 
                         
+
 
 
 
