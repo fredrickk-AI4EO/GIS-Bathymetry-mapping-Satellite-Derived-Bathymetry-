@@ -66,8 +66,18 @@ Data Source: (https://nsidc.org/data/atl24/versions/1)-(https://nsidc.org/data/A
 Applications of SDB in support of Hydrographic Survey
 infill coastal gaps, risk reduction, Improve efficiency
 Marine Remote Sensing(The Red Sea)
-
-                        
+ICESat-2 carries a single instrument 
+ the Advanced Topographic Laser Altimeter System, or ATLAS. 
+ATLAS measures the travel times of laser pulses to calculate 
+the distance between the spacecraft and Earth’s surface 
+(https://icesat-2.gsfc.nasa.gov/space-lasers)
+The ATL03 Geolocated Photon Data product is used to obtain 
+space-based bathymetric measurements.
+For bathymetric applications, ATL03 data is converted to 
+orthometric heights. Bathymetric photon returns are corrected 
+for water-column refraction and ocean tides
+NASA now also provides the ALT24 Bathymetry product, with 
+corrections already applied.
 
 
 
